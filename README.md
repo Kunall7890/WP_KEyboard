@@ -4,6 +4,8 @@ High-end scrollytelling landing page for a fictional keyboard brand, built with 
 
 ## Preview
 
+![Keyboard landing page preview](public/readme-preview.png)
+
 - Cinematic scroll-driven keyboard animation
 - Premium editorial light + dark sections
 - Conversion-focused product storytelling
